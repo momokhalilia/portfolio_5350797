@@ -95,7 +95,7 @@ class HomePage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      '''Hallo! Ich bin Mohammad khalilia. Willkommen auf meiner Portfolio-Seite.\n
+                      '''Hallo!. Ich bin Mohammad khalilia. Willkommen auf meiner Portfolio-Seite.\n
                        und ich wurde am 12. Dezember 1998, palästina, geboren.\n
                       Derzeit befinde ich mich im 6. Semester meines Studiums der Wirtschaftsinformatik an der Technischen Hochschule Mittelhessen, Campus Friedberg.\n
                       Meine akademische Reise hat mich von palästina nach Deutschland geführt, wo ich meine Leidenschaft für die Verbindung von Wirtschaft und Informationstechnologie weiterverfolgen konnte.\n
